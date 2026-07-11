@@ -1,5 +1,5 @@
 
-Dll.pyw (and .exe)
+DLL.pyw (and .exe)
 
 Epilepsy Warning! Contains flashing lights!
 
